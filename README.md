@@ -10,3 +10,5 @@ Mule Soft Task Successfully Completed
 # GUI
 ![image](https://user-images.githubusercontent.com/69030530/152948530-c90c6d65-31bb-4e17-9503-0449cd222cee.png)
 
+# Video Link added
+https://drive.google.com/file/d/1iOqZ1UMFMFVHkc5NCrHE_x4mCj9sNEri/view?usp=sharing
